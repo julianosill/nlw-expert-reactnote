@@ -33,7 +33,7 @@ Você poderá acessar através do endereço [http://localhost:5137](http://local
 
 ## TO-DO
 
-[ ] Permitir ambos métodos para adicionar conteúdo (texto ou gravação) na mesma nota
-[ ] Pausar e continuar a gravação
-[ ] Habilitar a inserção de texto quando o usuário estiver com a caixa de diálogo `Adicionar Nota` aberta e pressionar qualquer letra (A-Z e/ou Shift + Letra)
-[ ] Adicionar opção de idiomas (en-US, es-AR e pt-BR)
+- [ ] Permitir ambos métodos para adicionar conteúdo (texto ou gravação) na mesma nota
+- [ ] Pausar e continuar a gravação
+- [ ] Habilitar a inserção de texto quando o usuário estiver com a caixa de diálogo `Adicionar Nota` aberta e pressionar qualquer letra (A-Z e/ou Shift + Letra)
+- [ ] Adicionar opção de idiomas (en-US, es-AR e pt-BR)
